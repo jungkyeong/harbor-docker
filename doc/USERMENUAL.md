@@ -20,6 +20,9 @@
 - ./prepare
 - ./install.sh
 
+4. 중지
+- sudo docker compose down -v
+
 ### 참고
 1. harbor.yml 수정
 - hostname 수정
